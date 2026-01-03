@@ -1,5 +1,3 @@
-// Q7. Cyclically rotate an array
-
 import java.util.Scanner;
 class CyclicRotate
 {

@@ -1,5 +1,3 @@
-//Q8. find the largest sum (subarray) (kardane's algo)
-
 class LargestSum
 {
     public static void main(String args[])

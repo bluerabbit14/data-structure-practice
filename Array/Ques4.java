@@ -1,5 +1,3 @@
-// Q5.sort array of 0,1,2(without any algo).Sorting an array containing only 0, 1, and 2 is called the Dutch National Flag Algorithm.
-
 import java.util.Arrays;
 class SortArray
 {

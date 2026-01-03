@@ -1,0 +1,20 @@
+Ques 1: Reverse an array/string
+Ques 2: Find max/min element in array
+Ques 3: Find kth max/min element in array
+Ques 4: Sort array of 0,1,2 (without sorting algo.)
+Ques 5: Move all negative to one side
+Ques 6: Cyclically rotate an array
+Ques 7: Find the largest sum (continous subarray)(kardane's algo)
+Ques 8: Rearrange array in alternate + and  - (O(1) space)
+Ques 9: Smallest Subarray with sum>x
+Ques 10: Check if subarray with sum=0 exists
+Ques 11: Find duplicate in array of n+1 integers (Floyd's cycle)
+Quse 12: Find the pairs with given sum
+Ques 13: Triplet With given sum (3sum)
+Ques 14: Best time to buy and sell stock (single transaction)
+Ques 15: Maximum profit by buying & selling at most twice
+Ques 16: Minimum number of jumps to reach end
+Ques 17: Merge intervals
+Ques 18: Next permutation
+Ques 19: Trapping rain water
+Ques 20: Median of two sorted array (different size)

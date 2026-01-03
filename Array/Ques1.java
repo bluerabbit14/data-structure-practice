@@ -1,6 +1,3 @@
-// Q1: Reverse an array/string
-// Q2: Reverse an string(sentence) in word-wise 
-
 import java.util.Stack;
 class ReverseArray 
 {
